@@ -6,6 +6,10 @@
 <p align="justify">
   
 Welcome to the Data Elevate Solution repository. This repository contains the codebase, documentation, and resources for our cutting-edge data analysis services. Our goal is to transform raw data into actionable insights, driving businesses toward greater success.
+
+<img alt="project-verifikasi" src="dashboard/tampilan dashboard.gif"> </img>
+
+
 </p>
 <div align="center">
   
