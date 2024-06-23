@@ -6,7 +6,7 @@
 
 Welcome to the Data Elevate Solution repository. This repository contains the codebase, documentation, and resources for our cutting-edge data analysis services. Our goal is to transform raw data into actionable insights, driving businesses toward greater success.
 
-<img alt="project-verifikasi" src="dashboard/tampilan dashboard.gif"> </img>
+<img width="1000" alt="project-verifikasi" src="dashboard/tampilan dashboard.gif"> </img>
 
 <div align="center">
  
@@ -64,13 +64,17 @@ contoh data simulasi dashboard
 ERD (Entity Relationship Diagram) menampilkan hubungan antara entitas dengan atribut. Pada project ini. 
 
 <p align="center">
-  <img  src="app/logo11.jpg">
+  <img width="750" src="app/logo11.jpg">
 </p>
 
 
 ## Demo
 
 Berikut merupakan link untuk shinnyapps atau dashboard dari project kami:
+
+<img width="1000" alt="project-verifikasi" src="dashboard/dashboard elevate.gif"> </img>
+
+
 + [Link shinnyapps/dashboard](https://dataelevate.shinyapps.io/VerifikasiDokumen/)
 
 
