@@ -15,24 +15,15 @@ Welcome to the Data Elevate Solution repository. This repository contains the co
 
 
   
-[Overview](##Overview)
+[Overview](Overview)
 •
-[Deskripsi Project](#open_book-Project)
+[Contributing](Contributing)
 •
-[Dokument](#books-Dokument)
+[Dashboard Database](Dashboard Database)
 •
-[Visualisasi Data Scraping](#bar_chart-Data-Scraping-Analysis)
-•
-[PPT](#computer-PPT)
-•
-[Pengembang](#astronaut-Pengembang)
-•
-[Dokumentasi](#camera_flash-dokumentasi)
-
+[Demo](Demo)
 
 </div>
-
-
 
  ## Overview
 
@@ -49,7 +40,6 @@ Data Elevate is a data consulting firm specializing in comprehensive data analys
 <p align="center">
   <img width="220" height="150" src="app/logo8.png">
    <img width="220" height="150" src="app/logo9.png">
- 
  
 </p>
 
