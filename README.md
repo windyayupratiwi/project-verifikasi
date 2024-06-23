@@ -71,7 +71,7 @@ ERD (Entity Relationship Diagram) menampilkan hubungan antara entitas dengan atr
 ## Demo
 
 Berikut merupakan link untuk shinnyapps atau dashboard dari project kami:
-
++ [Link shinnyapps/dashboard](https://dataelevate.shinyapps.io/VerifikasiDokumen/)
 
 
 ##  contributor
