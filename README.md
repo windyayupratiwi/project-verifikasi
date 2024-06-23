@@ -3,27 +3,24 @@
 
 <h1 align="center">Data Elevate Solution
   <a href="app/logo2.jpg" target="_blank"><img src="app/logo5.png" alt="Data Elevate Solution Logo" style="width: 50px ;" /></a> </h1>
-<p align="justify">
-  
+
 Welcome to the Data Elevate Solution repository. This repository contains the codebase, documentation, and resources for our cutting-edge data analysis services. Our goal is to transform raw data into actionable insights, driving businesses toward greater success.
 
 <img alt="project-verifikasi" src="dashboard/tampilan dashboard.gif"> </img>
-</p>
+
 <div align="center">
-  
+ 
 ## contents :
-
-
   
 [Overview](Overview)
 •
 [Contributing](Contributing)
 •
-[Dashboard Database](Dashboard Database)
+[Dashboard Database](Dashboard-Database)
 •
 [Demo](Demo)
 
-</div>
+ </div>
 
  ## Overview
 
