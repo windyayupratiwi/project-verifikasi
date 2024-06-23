@@ -10,8 +10,8 @@ Welcome to the Data Elevate Solution repository. This repository contains the co
 
 <div align="center">
  
-## contents :
-  
+## contents :  
+•
 [Overview](Overview)
 •
 [Contributing](Contributing)
