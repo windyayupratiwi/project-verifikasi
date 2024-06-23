@@ -81,4 +81,7 @@ Berikut merupakan link untuk shinnyapps atau dashboard dari project kami:
 ##  contributor
  
 <b>Data Elevate Solution (dataelevatesolution@gmail.com)</b>
- 
+
+---------------
+ ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
+
